@@ -4,7 +4,7 @@
 
 # MSC Professional Resources
 
-<img style="left" src="assets/assets/msc-Logo6inx6inText-TransparentBg.png" width="200" />
+<img style="left" src="assets/msc-Logo6inx6inText-TransparentBg.png" width="200" />
 
 #
 
