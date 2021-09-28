@@ -1,6 +1,7 @@
 [![Generic badge](https://img.shields.io/badge/MilSpouseCoders-Beginner-teal.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/MilSpouseCoders-Professional_Resources-green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/PRs-Welcome-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Hacktoberfest-2021-orange.svg)](https://shields.io/)
 
 # MSC Professional Resources
 
